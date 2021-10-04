@@ -26,6 +26,7 @@ img {
 header {
   background-image: url("../images/anchors.svg");
   color: #fff;
+  background-color: #259f95;
   font-size: 1.125rem;
   font-style: normal;
   font-weight: normal;
@@ -50,9 +51,9 @@ article header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #259f95;
   background-image: none;
   border-radius: 0 0 6px 6px;
+  background-color: #259f95;
   color: #fff;
 }
 
@@ -86,7 +87,7 @@ nav a {
   border: 0;
   border-radius: 6px;
   color: #fff;
-  padding: 0.5rem;
+  padding: .5rem;
   width: 2.5rem;
   height: 2.5rem;
 }
